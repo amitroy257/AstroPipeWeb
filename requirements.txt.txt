@@ -1,7 +1,8 @@
 streamlit
+pyyaml
 numpy
+pandas
 scikit-learn
 matplotlib
-seaborn
 pillow
-pyyaml
+tqdm
