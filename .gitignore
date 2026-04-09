@@ -1,0 +1,7 @@
+﻿venv/
+__pycache__/
+*.pyc
+runs/
+dataset/
+dataset_zip/
+.DS_Store
