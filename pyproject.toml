@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Config-driven Kaggle image classification pipeline"
 requires-python = ">=3.10"
 dependencies = [
+  "streamlit",
   "pyyaml",
   "numpy",
   "pandas",
@@ -12,6 +13,3 @@ dependencies = [
   "pillow",
   "tqdm"
 ]
-
-[tool.setuptools]
-packages = ["astro_pipe"]
